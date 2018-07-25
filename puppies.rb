@@ -41,3 +41,4 @@ if 0<=5
     puts "no more puppies!"
 end
 end
+new_animal(0)
